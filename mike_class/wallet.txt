@@ -1,0 +1,6 @@
+amount<_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'><_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'>
+<_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'>
+<_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'>
+<_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'>
+<_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'>
+<_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'><_io.TextIOWrapper name='wallet.txt' mode='a+' encoding='cp1252'>
