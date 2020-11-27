@@ -1,1 +1,1 @@
-& "C:/Program Files/Python38-32/python.exe" c:/Users/stonner/Desktop/pyclass_main/try_except.py
+This is a new file
